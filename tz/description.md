@@ -94,13 +94,18 @@
 |Remark|Примечание|
 |Owner|Кто завел компанию|
 
+### Log
+|Field|Description|
+|----|----------|
+|Id|Уникальный код|
+|Date|Дата опреации|
+|Name|Наименование операции|
+|Type|Тип операции W-warning, I-information, D-danger|
+|User|Id пользователя совершившего операцию в системе|
 
 
-
-
-
-
-
-
-
-
+### Right
+### Matrix sign
+### Department
+### Position
+### Branch
